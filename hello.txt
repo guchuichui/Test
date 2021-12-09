@@ -5,5 +5,5 @@ hello git
 hello git
 hello git
 hello git
-hello git
+hello week:
 我是week项目 现在上线了
